@@ -1,2 +1,4 @@
 # Maze_Solver
+I created a maze-solving framework utilizing adjacency lists and weighted graphs, capable of processing up to 1,000 vertices and edges while optimizing storage through HashMaps for efficient graph traversal. I enhanced traversal efficiency by implementing DFS and BFS, enabling the framework to solve mazes with over 500 nodes in under 1 second, leveraging optimized data structures like sets, queues, and stacks. Additionally, I integrated Dijkstra's algorithm for shortest-path computation in complex weighted maze environments, ensuring accurate and efficient route optimization.
+
 Due to this project being a part of the curriculum from the University of Maryland Department of Computer Science, I am unable to place my code in a public repository. If you are a recruiter looking to access this code, please feel free to email me at: nautiyal@terpmail.umd.edu. Thank you and sorry for any inconvenience!
